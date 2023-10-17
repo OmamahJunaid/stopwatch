@@ -1,0 +1,31 @@
+ .body{
+    background-color: black;
+ }
+.main{
+    padding: 70px 0;
+   
+    text-align: center;
+    
+
+}
+.timmer{
+    display: inline-block;
+    font-size: 50px;
+    border: 2px solid white;
+    background-color: aliceblue;
+    margin-bottom:50px ;
+    padding: 20px;
+
+}
+.heading{
+    font-size: 70px;
+    font-family: cursive;
+    color: white;
+}
+.btn{
+    background-color: aliceblue;
+    margin-bottom:50px ;
+    padding: 20px;
+    font-size: 50px;
+    
+}
