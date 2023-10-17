@@ -1,5 +1,7 @@
  .body{
     background-color: black;
+    background-image: url("https://media.istockphoto.com/photos/pendant-watch-with-the-time-6-oclock-picture-id1128702346?k=6&m=1128702346&s=170667a&w=0&h=Dmf7Tmnp238uoBW6goz52r0v0jmwf3qAFxbLYRLQw_U=");
+    background-repeat: no-repeat;
  }
 .main{
     padding: 70px 0;
@@ -19,7 +21,7 @@
 }
 .heading{
     font-size: 70px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
 }
 .btn{
